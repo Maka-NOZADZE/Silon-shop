@@ -42,6 +42,11 @@
   display: flex;
   justify-content: space-between;
 }
+.line2_middle li:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .nav_icon {
   width: 100px;
 }
@@ -62,7 +67,7 @@
   flex-wrap: wrap;
 }
 .section1_description {
-  padding: 70px 0;
+  padding-top: 70px;
   width: 500px;
   height: 400px;
   text-align: center;
@@ -78,13 +83,10 @@
 }
 
 .section1_img {
-  /* background-color: bisque; */
   width: 650px;
-  height: 790px;
 }
 .section1_girl {
   width: 950px;
-  /* height: 790px; */
 }
 .btn {
   background-color: #ff5353;
