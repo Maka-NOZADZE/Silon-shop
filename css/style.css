@@ -86,10 +86,13 @@
 }
 
 .section1_img {
-  width: 650px;
+  width: 450px;
+  height: 450px;
 }
 .section1_girl {
-  width: 950px;
+  width: 440px;
+  height: 450px;
+  margin-right: 300px;
 }
 .btn {
   background-color: #ff5353;
@@ -128,6 +131,7 @@
 }
 .product_card img {
   margin-bottom: 20px;
+  width: 200px;
 }
 
 .product_card h4 {
